@@ -26,11 +26,11 @@ https://public.tableau.com/views/EnterpriseFraudRiskThreatIntelligenceDashboard/
 ## 📸 Dashboard Interface
 Below are the production layouts capturing executive metrics, network matrices, and granular forensic account tables:
 
-### Executive Operations & Threat Matrix Layout
-![Dashboard Part-1](SS__01)
+### Dashboard Part-1
+SS__01
 
-### Deep-Dive Forensic & User Ledger Architecture
-![Dashboard Part-2](SS__02)
+### Dashboard Part-2
+SS__02
 
 ---
 *Connect with me on https://www.linkedin.com/in/naved-malek/.*
