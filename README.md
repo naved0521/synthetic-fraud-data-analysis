@@ -23,8 +23,7 @@ https://public.tableau.com/views/EnterpriseFraudRiskThreatIntelligenceDashboard/
 
 ---
 
-
-## 📊 Dashboard Preview
+##📊Dashboard Preview
 ![Dashboard Part 1](SS__01.png)
 ![Dashboard Part 2](SS__02.png)
 ---
