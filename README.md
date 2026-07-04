@@ -23,11 +23,9 @@ https://public.tableau.com/views/EnterpriseFraudRiskThreatIntelligenceDashboard/
 
 ---
 
-## 📸 Dashboard Interface
-Below are the production layouts capturing executive metrics, network matrices, and granular forensic account tables:
 
-[Dashboard Part-1](SS__01.png)
-[Dashboard Part-2](SS__02.png)
-
+## 📊 Dashboard Preview
+![Dashboard Part 1](SS__01.png)
+![Dashboard Part 2](SS__02.png)
 ---
 *Connect with me on https://www.linkedin.com/in/naved-malek/.*
